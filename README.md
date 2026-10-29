@@ -18,13 +18,13 @@ Modern Calculator is a responsive web-based calculator developed by **Vivek Sahu
 - **Responsive UI:** Compact layout that adapts to smaller screens.
 - **Modern styling:** Gradient background, translucent calculator panel, rounded buttons, hover effects, and Lucide icons.
 
-## 🌐 Public Live Demo
+## 🌐 Live Demo
 
-The project includes a GitHub Actions workflow to publish the app on **GitHub Pages**. Once Pages is enabled and deployment succeeds, the public URL will be:
+✅ **The calculator is deployed on GitHub Pages!**
 
-`https://viveksahu1974.github.io/project---3/`
+### [▶️ Open Live Calculator](https://viveksahu1974.github.io/project---3/)
 
-**Enable it in GitHub:** Open **Settings → Pages → Build and deployment**, select **GitHub Actions** as the source, then run the **Deploy calculator to GitHub Pages** workflow under **Actions**. The public demo link will work only after a successful deployment.
+The public site is deployed automatically using GitHub Actions when changes are pushed to the `main` branch.
 
 ## 🛠️ Tech Stack
 
