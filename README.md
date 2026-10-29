@@ -2,6 +2,10 @@
 
 A sleek, responsive calculator web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. It features a colorful gradient background, a glassmorphism-inspired interface, and straightforward controls for everyday arithmetic.
 
+## 📌 About the Project
+
+Modern Calculator is a responsive web-based calculator developed by **Vivek Sahu** using React, TypeScript, Vite, and Tailwind CSS. It supports basic arithmetic operations, decimal input, clear and backspace controls, and a modern glassmorphism-inspired design. This project demonstrates React state management, UI development, and responsive styling.
+
 ## ✨ Features
 
 - **Four basic operations:** Addition (+), subtraction (−), multiplication (×), and division (÷).
