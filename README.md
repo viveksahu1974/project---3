@@ -14,6 +14,14 @@ A sleek, responsive calculator web application built with **React**, **TypeScrip
 - **Responsive UI:** Compact layout that adapts to smaller screens.
 - **Modern styling:** Gradient background, translucent calculator panel, rounded buttons, hover effects, and Lucide icons.
 
+## 🌐 Public Live Demo
+
+The project includes a GitHub Actions workflow to publish the app on **GitHub Pages**. Once Pages is enabled and deployment succeeds, the public URL will be:
+
+`https://viveksahu1974.github.io/project---3/`
+
+**Enable it in GitHub:** Open **Settings → Pages → Build and deployment**, select **GitHub Actions** as the source, then run the **Deploy calculator to GitHub Pages** workflow under **Actions**. The public demo link will work only after a successful deployment.
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
@@ -54,7 +62,7 @@ npm install
 npm run dev
 ```
 
-Open the local URL shown in your terminal (typically **http://localhost:5173/**).
+Open the local URL shown in your terminal (typically **`http://localhost:5173/`**). This address works **only on your own computer while `npm run dev` is running**; it is not a public live-demo URL.
 
 ### 4. Create a production build
 
